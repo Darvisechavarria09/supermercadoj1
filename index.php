@@ -61,6 +61,7 @@
                         $total=$precioA+$costoEnvio;
                         echo("El total es de: ".$total);
                     ?>
+                    
                 </h4>
 
                 <?php endif ?>
