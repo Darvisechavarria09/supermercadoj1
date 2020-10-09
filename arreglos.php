@@ -12,7 +12,7 @@ echo($productos[1]);
 
 //arreglos asociativos
 echo("<br>");
-$productosAsociados=array=('producto1'=>"arroz", 'producto2'=>"atun".'producto3'=>"apio",'producto4'=>"pollo")
+$productosAsociados=array('producto1'=>"arroz", 'producto2'=>"atun".'producto3'=>"apio",'producto4'=>"pollo")
 pirnt_r($productosAsociados);
 echo("<br>");
 echo($productosAsociados["producto2"]);
